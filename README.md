@@ -1,6 +1,6 @@
 #Retail-data-analyst-portfolio
 End-to-end Data Analyst project using Python, SQL & Power BI
-# AI-Driven Retail Customer & Demand Analysis
+# Retail Customer & Demand Analysis
 
 ## 📌 Project Overview
 This project demonstrates an end-to-end Data Analyst workflow including data cleaning, exploratory analysis, customer segmentation, demand forecasting, and dashboard creation.
