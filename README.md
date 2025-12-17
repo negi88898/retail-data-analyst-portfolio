@@ -1,4 +1,4 @@
-# ai-retail-data-analyst-portfolio
+#Retail-data-analyst-portfolio
 End-to-end Data Analyst project using Python, SQL & Power BI
 # AI-Driven Retail Customer & Demand Analysis
 
